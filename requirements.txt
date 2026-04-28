@@ -1,0 +1,10 @@
+# Core
+Flask>=3.0.0
+
+# Optional: load .env automatically. Recommended.
+python-dotenv>=1.0.0
+
+# Optional vendor SDKs — install only the ones you actually use.
+# msal>=1.27.0          # Microsoft Copilot
+# requests>=2.31.0      # Microsoft Copilot, GitHub Copilot, Claude Code
+# boto3>=1.34.0         # Amazon Q Developer
