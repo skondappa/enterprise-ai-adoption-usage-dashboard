@@ -143,5 +143,6 @@ If you're rolling this out at your enterprise and want help with
 deployment, custom adapters, or production hardening — reach out.
 
 - 📩 Email: s.kondappa31@gmail.com
-- 💼 LinkedIn: _[your LinkedIn URL]_
+- 💼 LinkedIn: https://www.linkedin.com/in/samyukta-ks-7118b634/
+- 📩 Medium: https://medium.com/@s.kondappa31
 - ➕ Follow for more enterprise-scale AI engineering work
