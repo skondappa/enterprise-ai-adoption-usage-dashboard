@@ -67,7 +67,7 @@ so you can compare apples to apples.
 
 ---
 
-## 2. How it actually works (still plain English)
+## 2. How it actually works
 
 Three small things happen, on three different schedules:
 
